@@ -2243,13 +2243,12 @@ body :-ms-input-placeholder {
 .btn-style1 {
 	position:absolute;
 	left:41.5%;
-	animation:btn1 36.5s;
 }
 .btn-style2 {
 	position:absolute;
 	left:83%;
-	animation:btn2 36.5s; 
 }
+
 @keyframes btn1 {
 	0% {
 		opacity:0;
